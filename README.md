@@ -75,13 +75,12 @@ This project aims to create a chat application styled like WhatsApp using Python
 
 ```
 PythonChatSystem/
-├── zap.py               # Main application
-├── alt/
-│   ├── .gitignore       # Git ignore file
-│   └── .gitattributes   # Git attributes file
 ├── venv/                # Virtual environment directory
+├── .gitignore           # Git ignore file
+├── .gitattributes       # Git attributes file
 ├── LICENSE.txt          # Project LICENSE
-└── README.md            # Project README
+├── README.md            # Project README
+└── zap.py               # Main application
 ```
 
 ## Notes
